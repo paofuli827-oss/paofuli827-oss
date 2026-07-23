@@ -12,17 +12,17 @@ Master's student in Artificial Intelligence at Nanjing University of Information
 
 ## Featured Projects
 
-### Tianjin Weather Data Analysis
-
-A reproducible Python workflow for meteorological data cleaning, statistical analysis and visualization.
-
-[View project](https://github.com/paofuli827-oss/tianjin-weather-analysis)
+### Transformer-Based Short-Term Precipitation Forecasting
+A PyTorch demonstration of multivariate precipitation forecasting using a Transformer encoder, chronological validation and meteorological verification metrics.  
+[View Project](https://github.com/paofuli827-oss/transformer-precipitation-forecast)
 
 ### Weather Forecast Evaluation
+A reproducible Python workflow for evaluating temperature and precipitation forecasts using continuous and categorical metrics.  
+[View Project](https://github.com/paofuli827-oss/weather-forecast-evaluation)
 
-A Python project for evaluating temperature and precipitation forecasts using MAE, RMSE, Bias, POD, FAR and CSI.
-
-Project in progress.
+### Tianjin Weather Analysis
+A Python project covering weather-data cleaning, statistical analysis and visualization.  
+[View Project](https://github.com/paofuli827-oss/tianjin-weather-analysis)
 
 ## Research Interests
 
