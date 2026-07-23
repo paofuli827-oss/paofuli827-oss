@@ -1,16 +1,37 @@
-## Hi there 👋
+# Hi, I'm Xiwei Li
 
-<!--
-**paofuli827-oss/paofuli827-oss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Master's student in Artificial Intelligence at Nanjing University of Information Science and Technology.
 
-Here are some ideas to get you started:
+## Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Python, NumPy, Pandas and Matplotlib
+- Machine learning and deep learning
+- Meteorological data processing and visualization
+- Git and GitHub
+- Academic writing and technical documentation
+
+## Featured Projects
+
+### Tianjin Weather Data Analysis
+
+A reproducible Python workflow for meteorological data cleaning, statistical analysis and visualization.
+
+[View project](https://github.com/paofuli827-oss/tianjin-weather-analysis)
+
+### Weather Forecast Evaluation
+
+A Python project for evaluating temperature and precipitation forecasts using MAE, RMSE, Bias, POD, FAR and CSI.
+
+Project in progress.
+
+## Research Interests
+
+- Artificial intelligence for weather forecasting
+- Meteorological data analysis
+- Event-triggered control
+- Cyber-physical system security
+- Multi-agent systems
+
+## Contact
+
+Email: paofuli827@gmail.com
